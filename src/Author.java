@@ -7,6 +7,7 @@ public class Author {
 
     public Author(String nameAuthor, String firstName) {
         this.nameAuthor = nameAuthor;
+
         this.firstName = firstName;
     }
 
